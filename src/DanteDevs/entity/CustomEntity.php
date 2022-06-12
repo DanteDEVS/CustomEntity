@@ -10,7 +10,7 @@ use pocketmine\math\Vector3;
 use pocketmine\entity\Location;
 use pocketmine\world\World;
 
-abstract class CustomEntity extends Location, DEntityIds{
+abstract class CustomEntity extends Location {
 
 	public const MOTION_THRESHOLD = 0.00001;
 	protected const STEP_CLIP_MULTIPLIER = 0.4;
