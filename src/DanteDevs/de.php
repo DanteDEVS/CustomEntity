@@ -2,12 +2,9 @@
 
 namespace DanteDevs;
 
-use pocketmine\plugin\Plugin;
-
-class de extends PluginBase;
-
- public function onEnable(): void 
- {
-   $this->getLogger()->info("enabled!");
- }
+class de {
+  /**
+  creating entity:
+  CustomEntity::registerEntity(class::EGG, true); // example
+  */
 }
