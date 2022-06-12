@@ -1,5 +1,5 @@
 # CustomEntity
-CustomEntity is so people dont have to worry about changing there pm3 entity to pm4
+Having problems with **CONVERTING AN ENTITY FROM PM3 TO PM4**, If yes use CustomEntity with mostly everything in pm3, Have anything missing report it at issues!
 # How to use?
 1. Virion usage
 ```yml
