@@ -2,7 +2,7 @@
 
 namespace DanteDevs;
 
-class de {
+class DanteDevs {
   /**
   creating entity:
   CustomEntity::registerEntity(class::EGG, true); // example
